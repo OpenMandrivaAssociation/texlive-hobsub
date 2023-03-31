@@ -1,6 +1,6 @@
 Name:		texlive-hobsub
 Version:	52810
-Release:	1
+Release:	2
 Summary:	Construct package bundles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hobsub
