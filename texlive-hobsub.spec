@@ -3,7 +3,7 @@ Version:	52810
 Release:	2
 Summary:	Construct package bundles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hobsub
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hobsub
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hobsub.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hobsub.doc.r%{version}.tar.xz
